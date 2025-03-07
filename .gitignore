@@ -4,3 +4,5 @@ buildings_v2
 cache
 *.pkl
 osm
+.ipynb_checkpoints
+convert_to_geojson.ipynb
