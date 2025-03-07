@@ -14,3 +14,7 @@ All required data can be obtained via the PROCESS FLOW provided in each code fil
 To produce income-related visuals found in Chapter 4, run ``multicity_income.ipynb``, and ``multicity_race.ipynb`` for Chapter 5. 
 
 **IMPORTANT:** note where the ``num_divisions`` parameter is defined in the code; *all* visuals will be produced with that number of divisions (tertiles, quintiles, etc.). 
+
+### Credits
+
+I acknowledge the use of generative AI, specifically the OpenAI ChatGPT 4o model, largely for sporadic assistance with routine code production. All code was subsequently verified by me, and all written components of this thesis are my original work. 
