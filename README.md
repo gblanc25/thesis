@@ -7,9 +7,11 @@ Advisors: Jim Waldo (Harvard Computer Science) & Adaner Usmani (Harvard Sociolog
 
 This repository contains two .ipynb files responsible for data analysis and graph production: ``multicity_income`` and ``multicity_race``. It also contains several data folders, although the ``osm`` folder required in the code is missing due to large file sizes.
 
+The ``boston.ipynb`` file contains the code used to generate visuals in the Introduction, though associated data files are not included here. 
+
 ### Usage
 
-All required data can be obtained via the PROCESS FLOW provided in each code file; ACS data and TIGER shapefiles have already been provided. 
+All required data for the multicity files can be obtained via the PROCESS FLOW provided in each code file; ACS data and TIGER shapefiles have already been provided. 
 
 To produce income-related visuals found in Chapter 4, run ``multicity_income.ipynb``, and ``multicity_race.ipynb`` for Chapter 5. 
 
